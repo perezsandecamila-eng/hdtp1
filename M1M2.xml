@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-model
+  href="https://vault.tei-c.org/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"
+  type="application/xml"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+
+    <teiHeader> 
+        <fileDesc>
+
+            <titleStmt>
+                <title xml:id="llc_exordio">Folios M1 y M2 </title>
+                <author>Alonso Carrió de la Vandera</author>
+                <editor resp="digital">Camila Perez Sande</editor>  
+                
+             </titleStmt>
+
+            <publicationStmt>
+                <publisher>Humanidades digitales</publisher>
+                <availability>
+                    <licence>Creative Commons Compartir Igual 4.0 Internacional</licence>
+                </availability>
+            </publicationStmt>
+
+            <sourceDesc>
+            <bibl>
+                <title> El lazarillo de ciegos caminantes desde Buenos Aires, hasta Lima con sus itinerarios según la más puntual observación, con algunas noticias útiles a los Nuevos Comerciantes que tratan en Mulas ; y otras históricas / sacado de las memorias que hizo Don Alonso Carrió de la Vandera en este dilatado viaje....; por Don Calixto Bustamante Carlos Inca, alias Concolorcorvo natural de Cuzco.</title>
+                <author>Alonso Carrió de la Vandera</author>
+                <publisher>Imprenta de la Rovada</publisher> 
+                <date>1773</date>
+                <pubPlace>Lima, Perú</pubPlace>
+                <objectIdentifier>   
+                    <institution>Biblioteca Nacional (España)</institution>
+                    <idno>sig. R/22795</idno>
+             
+                </objectIdentifier>
+                </bibl>
+            </sourceDesc>
+
+        </fileDesc>
+    </teiHeader>
+
+    <text>
+    <body>
+ <pb n="M1"/> <p> Algunos caminantes llevan caballos propios, que compran por lo general a dos pesos cada uno. Este es un error grande, porque por la noche se huyen a sus querencias o los estropean los rondadores. Lo más seguro es ajustarse con el dueño o mayordomo de la tropa, a quien rara vez se le pierde caballo y muchas veces se le aumentan con los que están esparcidos por el campo y agregan los muleros por género de represalia. </p>
+
+<p>Así como algunos admirarán la resistencia de los bueyes rocines de <placeName key="Mendoza">Mendoza</placeName>, se asombrarán del valor de los del <placeName key="Tucuman">Tucuman</placeName> viéndolos atravesar caudalosos ríos presentando siempre el pecho a las más rápidas corrientes, arrastrando unas carretas tan cargadas como llevo dicho y que con el impulso de las olas hacen una resistencia extraordinaria. A la entrada manifiestan alguna timidez, pero no retroceden ni se asustan de que las aguas les cubran todo el cuerpo, hasta los ojos, con tal que preserven las orejas. Si no pueden arrastrar la carreta, la mantienen de pecho firme hasta que pasan a su socorro las cuartas, a las que ayudan con brío, y al segundo, tercero y cuarto tránsito se empeñan con <pb n="M2"/> más denuedo y seguridad, alentándolos los peones, que invocan por sus nombres. Si se enredan con las cuartas lo manifiestan con pies y manos para que el peón les quite el impedimento, y, en fin, ha sido para mí este espectáculo uno de los más gustosos que he tenido en mi vida. Al principio creí que aquellos pacíficos animales se ahogaban indefectiblemente, viéndolos casi una hora debajo del agua y divisando sólo las puntas de sus orejas, pero las repetidas experiencias me hicieron ver la constancia de tan útiles animales y el aprecio que se debe hacer de su importante servicio.</p> 
+
+<p> Cuando va un pasajero dentro de carretón o carreta, se rebaja un tercio de la carga por su persona, cama, baúl de ropa y otros chismes. En las carretas que llevan   —96→   carga sola no se hace puerta por la trasera, pero va abierta por delante para el manejo y reconocimiento de las goteras y otros ministerios.</p>
+
+<p> Es muy conveniente, y casi preciso, que los señores caminantes se informen de las circunstancias de los carreteros, porque éstos se dividen regularmente en tres clases. La primera comprende a los hombres más distinguidos de <placeName key="Mendoza">Mendoza</placeName>, <placeName key="sanjuandelafrontera">San Juan de la Frontera</placeName> y <placeName key="smtucuman"> San Miguel de Tucuman </placeName> . </p>
+    </body>
+    </text>
+   </TEI>
+   
